@@ -1,6 +1,5 @@
 # Overview
 [![Twitter](https://img.shields.io/badge/author-%40MachielMolenaar-blue.svg)](https://twitter.com/MachielMolenaar)
-[![GoDoc](https://godoc.org/github.com/Machiel/strangerbot?status.svg)](https://godoc.org/github.com/Machiel/strangerbot)
 
 This is the source of StrangerBot, the bot on Telegram that matches two random
 users and allows them to chat with each other.
