@@ -14,7 +14,7 @@ build it yourself using Go.
 
 If you have go installed, you can install strangerbot like this:
 
-`go get github.com/Machiel/strangerbot`
+`go get -u github.com/Machiel/strangerbot`
 
 # Usage
 
